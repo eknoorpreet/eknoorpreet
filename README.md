@@ -19,8 +19,8 @@
 </p>
 
 <h1 align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eknoorpreet&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="Eknoorpreet's GitHub stats" width="600">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eknoorpreet&hide=procfile&theme=jolly" height="235">
+  <img src="https://github-readme-stats.vercel.app/api?username=eknoorpreet&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="Eknoorpreet's GitHub stats" width="500">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eknoorpreet&hide=procfile&theme=jolly" height="197">
 </h1>
 
 
