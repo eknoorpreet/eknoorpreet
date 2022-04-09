@@ -7,15 +7,16 @@
 <p align="center">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="30" />
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3" height="30" />
-  <img src="https://img.shields.io/badge/-JavaScript-6D7781?style=for-the-badge&logo=javascript" height="30" />
-  <img src="https://img.shields.io/badge/-React-6D7781?style=for-the-badge&logo=react" height="30"/>
-  <img src="https://img.shields.io/badge/-Nodejs-6D7781?style=for-the-badge&logo=Node.js" height="30" />
-  <img src="https://img.shields.io/badge/-MongoDB-6D7781?style=for-the-badge&logo=mongodb" height="30" />
-  <img src="https://img.shields.io/badge/-postgresql-black?style=for-the-badge&logo=postgresql" height="30" />
-  <img src="https://img.shields.io/badge/-Netlify-6D7781?style=for-the-badge&logo=netlify" height="30" />
-  <img src="https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku" height="30" />
-  <img src="https://img.shields.io/badge/-Git-6D7781?style=for-the-badge&logo=git" height="30" />
-  <img src="https://img.shields.io/badge/-GitHub-6D7781?style=for-the-badge&logo=github" height="30" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1C?style=for-the-badge&logo=javascript&&logoColor=000" height="30" />
+  <img src="https://img.shields.io/badge/-React-65C7E5?style=for-the-badge&logo=react&&logoColor=fff" height="30"/>
+  <img src="https://img.shields.io/badge/-Sass-CD6599?style=for-the-badge&logo=sass&&logoColor=fff" height="30"/>
+  <img src="https://img.shields.io/badge/-Nodejs-469149?style=for-the-badge&logo=Node.js&&logoColor=fff" height="30" />
+  <img src="https://img.shields.io/badge/-MongoDB-48A249?style=for-the-badge&logo=mongodb&&logoColor=fff" height="30" />
+  <img src="https://img.shields.io/badge/-postgresql-29418D?style=for-the-badge&logo=postgresql&&logoColor=fff" height="30" />
+  <img src="https://img.shields.io/badge/-Netlify-4CA49F?style=for-the-badge&logo=netlify&&logoColor=fff" height="30" />
+  <img src="https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku&&logoColor=fff" height="30" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&&logoColor=fff" height="30" />
+  <img src="https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&&logoColor=fff" height="30" />
 </p>
 
 <h1 align="center">
