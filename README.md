@@ -5,17 +5,17 @@
 <h2 align="center">Technology Stack</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="32" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3" height="32" />
-  <img src="https://img.shields.io/badge/-JavaScript-6D7781?style=for-the-badge&logo=javascript" height="32" />
-  <img src="https://img.shields.io/badge/-React-6D7781?style=for-the-badge&logo=react" height="32"/>
-  <img src="https://img.shields.io/badge/-Nodejs-6D7781?style=for-the-badge&logo=Node.js" height="32" />
-  <img src="https://img.shields.io/badge/-MongoDB-6D7781?style=for-the-badge&logo=mongodb" height="32" />
-  <img src="https://img.shields.io/badge/-postgresql-black?style=for-the-badge&logo=postgresql" height="32" />
-  <img src="https://img.shields.io/badge/-Netlify-6D7781?style=for-the-badge&logo=netlify" height="32" />
-  <img src="https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku" height="32" />
-  <img src="https://img.shields.io/badge/-Git-6D7781?style=for-the-badge&logo=git" height="32" />
-  <img src="https://img.shields.io/badge/-GitHub-6D7781?style=for-the-badge&logo=github" height="32" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3" height="30" />
+  <img src="https://img.shields.io/badge/-JavaScript-6D7781?style=for-the-badge&logo=javascript" height="30" />
+  <img src="https://img.shields.io/badge/-React-6D7781?style=for-the-badge&logo=react" height="30"/>
+  <img src="https://img.shields.io/badge/-Nodejs-6D7781?style=for-the-badge&logo=Node.js" height="30" />
+  <img src="https://img.shields.io/badge/-MongoDB-6D7781?style=for-the-badge&logo=mongodb" height="30" />
+  <img src="https://img.shields.io/badge/-postgresql-black?style=for-the-badge&logo=postgresql" height="30" />
+  <img src="https://img.shields.io/badge/-Netlify-6D7781?style=for-the-badge&logo=netlify" height="30" />
+  <img src="https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku" height="30" />
+  <img src="https://img.shields.io/badge/-Git-6D7781?style=for-the-badge&logo=git" height="30" />
+  <img src="https://img.shields.io/badge/-GitHub-6D7781?style=for-the-badge&logo=github" height="30" />
 </p>
 
 <h1 align="center">
