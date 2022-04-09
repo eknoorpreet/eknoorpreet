@@ -1,4 +1,4 @@
-[![MasterHead](https://res.cloudinary.com/drkvr9wta/image/upload/v1649453941/landing-rev_hnowxd.jpg)](https://github.com/eknoorpreet/eknoorpreet)
+[![MasterHead](https://res.cloudinary.com/drkvr9wta/image/upload/v1649465147/landing-test-2_b9g6r5.jpg)](https://github.com/eknoorpreet/eknoorpreet)
 
 <p align="center">An aspiring developer who is passionate about web technologies and computer science. When I'm not writing code, I like to binge-watch Netflix, listen to music, and think about my lack of hobbies.</p>
 
